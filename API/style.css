@@ -1,0 +1,9 @@
+#list-data li {
+    display: inline-block;
+    max-width: 300px;
+    vertical-align: middle;
+}
+
+li img{
+    max-width: 100%
+}
